@@ -6,6 +6,12 @@
 - cd backend
 - nodemon index.js
 
+# API Checking
+- cd backend
+- nodemon index.js
+- open postman
+- get request at http://localhost:5000/api/init 
+
 # MERN Task Project
 
 This project is a full-stack MERN (MongoDB, Express, React, Node.js) application that allows you to build and manage tasks. The project consists of two main parts: the **Frontend** (React.js) and the **Backend** (Node.js/Express with MongoDB).
